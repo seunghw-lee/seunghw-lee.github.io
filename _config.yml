@@ -12,14 +12,16 @@
 #    `--'   `----''--'   '--' `--'
 
 
+# using TeXt theme (https://github.com/kitian616/jekyll-TeXt-theme) - S.H.Lee, 2021.04.05
+remote_theme : kitian616/jekyll-TeXt-theme
 
 
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+url     :  "https://seunghw-lee.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com - changed to mine... - S.H.Lee, 2021.04.05
+baseurl : ""# does not include hostname
 title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
