@@ -297,3 +297,5 @@ plugins:
   - jemoji
 
 data_dir: /docs/_data
+
+theme: jekyll-theme-midnight
