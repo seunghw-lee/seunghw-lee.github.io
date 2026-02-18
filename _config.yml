@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About...
-    url:               /00_about/
+  - title:             About
+    url:               /about/
   - title:             Math
     url:               /10_math_studylog/
     submenu: 
