@@ -50,23 +50,23 @@ menu:
   - title:             About
     url:               /about/
   - title:             Math
-    url:               /_posts/math/
+    url:               /math/
     submenu: 
       - title:         Algebra
-        url:           /_posts/math/algebra/
+        url:           /algebra/
       - title:         Linear Algebra
-        url:           /_posts/math/linear_algebra/
+        url:           /linear_algebra/
       - title:         Matrix Analysis
-        url:           /_posts/math/matrix_analysis/
+        url:           /matrix_analysis/
       - title:         Math Etc.
-        url:           /_posts/math/math_etc/
+        url:           /math_etc/
   - title:             Deep Learning
-    url:               /_posts/deep_learning/
+    url:               /deep_learning/
     submenu:
       - title:         Adder Net
-        url:           /_posts/deep_learning/adder_net/
+        url:           /adder_net/
   - title:              My Story
-    url:               /_posts/my_story/
+    url:               /my_story/
 
 
 # Add links to the footer.

@@ -7,7 +7,7 @@ layout: list
 title: Linear Algebra
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: _posts/math/linear_algebra
+slug: linear_algebra
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
