@@ -4,14 +4,14 @@
 layout: list
 
 # The title of the tag's page.
-title: About...
+title: SeungHW
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 00_about
+slug: 70_my_story
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Things about my journey to Deep Learning.
+  Miscellaneous things...
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

@@ -4,14 +4,14 @@
 layout: list
 
 # The title of the tag's page.
-title: About...
+title: Math
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 00_about
+slug: 10_math_studylog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Things about my journey to Deep Learning.
+  Mathematics related to Deep Learning.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
