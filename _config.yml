@@ -59,7 +59,7 @@ menu:
         url:           /linear_algebra/
       - title:         Matrix Analysis
         url:           /matrix_analysis/
-      - title:         Etc.
+      - title:         Math Etc.
         url:           /math_etc/
   - title:             Deep Learning
     url:               /deep_learning/
