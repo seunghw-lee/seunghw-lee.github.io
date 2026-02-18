@@ -54,20 +54,20 @@ menu:
     url:               /math/
     submenu: 
       - title:         Algebra
-        url:           /11_algebra/
+        url:           /algebra/
       - title:         Linear Algebra
-        url:           /12_linear_algebra/
+        url:           /linear_algebra/
       - title:         Matrix Analysis
-        url:           /13_matrix_analysis/
+        url:           /matrix_analysis/
       - title:         Etc.
-        url:           /19_math_etc/
+        url:           /math_etc/
   - title:             Deep Learning
-    url:               /20_deep_learning/
+    url:               /deep_learning/
     submenu:
       - title:         Adder Net
-        url:           /21_adder_net/
-  - title:              SeungHW
-    url:               /70_my_story/
+        url:           /adder_net/
+  - title:              My Story
+    url:               /my_story/
 
 
 # Add links to the footer.

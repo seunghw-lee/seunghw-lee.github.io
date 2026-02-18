@@ -4,10 +4,10 @@
 layout: list
 
 # The title of the tag's page.
-title: SeungHW
+title: My Story
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 70_my_story
+slug: my_story
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
