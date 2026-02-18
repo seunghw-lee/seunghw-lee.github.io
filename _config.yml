@@ -50,7 +50,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Math
-    url:               /math/
+    url:               /_posts/math/
     submenu: 
       - title:         Algebra
         url:           /algebra/
@@ -61,7 +61,7 @@ menu:
       - title:         Math Etc.
         url:           /math_etc/
   - title:             Deep Learning
-    url:               /deep_learning/
+    url:               /_posts/deep_learning/
     submenu:
       - title:         Adder Net
         url:           /adder_net/
