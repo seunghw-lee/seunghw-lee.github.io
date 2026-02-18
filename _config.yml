@@ -51,7 +51,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Math
-    url:               /10_math_studylog/
+    url:               /math/
     submenu: 
       - title:         Algebra
         url:           /11_algebra/
