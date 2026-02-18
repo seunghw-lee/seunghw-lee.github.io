@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /_posts/about/
+    url:               /about/
   - title:             Math
     url:               /_posts/math/
     submenu: 
