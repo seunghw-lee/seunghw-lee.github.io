@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/
+    url:               /_posts/about/
   - title:             Math
     url:               /_posts/math/
     submenu: 
@@ -66,7 +66,7 @@ menu:
       - title:         Adder Net
         url:           /adder_net/
   - title:              My Story
-    url:               /my_story/
+    url:               /_posts/my_story/
 
 
 # Add links to the footer.
