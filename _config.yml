@@ -53,18 +53,18 @@ menu:
     url:               /_posts/math/
     submenu: 
       - title:         Algebra
-        url:           /algebra/
+        url:           /_posts/math/algebra/
       - title:         Linear Algebra
-        url:           /linear_algebra/
+        url:           /_posts/math/linear_algebra/
       - title:         Matrix Analysis
-        url:           /matrix_analysis/
+        url:           /_posts/math/matrix_analysis/
       - title:         Math Etc.
-        url:           /math_etc/
+        url:           /_posts/math/math_etc/
   - title:             Deep Learning
     url:               /_posts/deep_learning/
     submenu:
       - title:         Adder Net
-        url:           /adder_net/
+        url:           /_posts/deep_learning/adder_net/
   - title:              My Story
     url:               /_posts/my_story/
 
