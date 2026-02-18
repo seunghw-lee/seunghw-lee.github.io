@@ -12,9 +12,9 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## seunghw AI blog.
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+  A Journey to understand, research and implement Deep Learning
 {:.lead}
 
 1. this list will be replaced by the toc
